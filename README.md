@@ -1,5 +1,5 @@
 # Face and Hand Detection
-Face and Hand Detection using OpenCV and Mediapipe by webcam. 
+Face and Hand Detection using **OpenCV** and **Mediapipe** by webcam. 
 
 ## Installation 
 
