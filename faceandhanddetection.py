@@ -3,7 +3,7 @@ import mediapipe as mp
 import time 
 
 cap = cv2.VideoCapture(0)
-cascade = cv2.CascadeClassifier('/Users/herschelle/coding/Python/Data_Science/facecascade.xml')
+cascade = cv2.CascadeClassifier('facecascade.xml')
 mphands = mp.solutions.hands
 hands = mphands.Hands(max_num_hands=4)
 draw = mp.solutions.drawing_utils 
